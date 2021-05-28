@@ -11,7 +11,7 @@
   box-sizing: border-box;
   color: white;
 }
-.picture {
+.box-left img {
   padding: 10px;
   background-color: grey;
   width: 100%;
