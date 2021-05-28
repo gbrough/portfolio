@@ -22,8 +22,8 @@ If you would like to contribute to this project, you're welcome to clone it. The
 [MIT license](https://opensource.org/licenses/MIT) others are allowed modify or reuse this project.
 
 ### Contact information: 
-  <ul>
+  <ol>
+    <li>Call me 503-724-1002</li>
     <li><a href="mailto:gbrough@gmail.com">Email Me</a></li>
-    <li><a href="tel:1-503-724-1002">Call me 503-724-1002</a></li>
-    <li><a href="https://www.linkedin.com/in/gbroughton/">Message Me</a></li>
-  </ul>
+    <li><a href="https://www.linkedin.com/in/gbroughton/">Add Me on LinkedIn</a></li>
+  </ol>
