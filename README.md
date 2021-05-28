@@ -3,7 +3,7 @@
 ### Authored by:  Garrett Broughton
 
 ### Project Description: 
-    -   A home page about with information about me with sections show casing projects, background, hobbies, and about me.
+    -   A home page with information about me with sections show casing projects, background, hobbies, and about me.
     -   HTML: "Build with HTML tags including p,h,ul,ol,li,em,strong,a,img,div, and span."
     -   CSS: "Added CSS Styling for formatting including margin, border, padding, and floats"
 
@@ -13,7 +13,7 @@
     -   Github was also utilized to practices saving changes and providing the Readme instructions.
 
 ### Program Setup Instructions: 
-If you would like to contribute to this project, you're welcome to clone it. The tools used are git for cloning, commiting, and pushing changes. VSCode is the editor I used to make HTML and CSS changes. VSCode includes Live Server that lets you preview the page on your local computer.
+If you would like to contribute, you're welcome to clone and submit a pull request, or fork the project for your own use. The tools used are git for cloning, commiting, and pushing changes. VSCode is the editor I used to make HTML and CSS changes. VSCode includes Live Server that lets you preview the page on your local computer.
     
 ### Link to Github Page: 
 <a href="https://gbrough.github.io/portfolio/">GitHub Page</a>
