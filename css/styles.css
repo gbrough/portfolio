@@ -4,22 +4,26 @@
   text-align: center;
   color: white;
 }
-.picture {
+.box-left {
+  width: 20%;
   float: left;
+  padding: 20px;
+  box-sizing: border-box;
+  color: white;
+}
+.picture {
   padding: 10px;
   background-color: grey;
-  display: block;
-  width: 20%;
-  box-sizing: border-box;
+  width: 100%;
 }
-.box {
-  float: right;
+.box-right {
   width: 80%;
+  float: right;
   padding: 10px;
   box-sizing: border-box;
   color: white;
 }
-.box h2 {
+.box-right h2 {
   float: right;
   width: 100%;
   padding: 5px;
