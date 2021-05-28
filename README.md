@@ -22,4 +22,8 @@ TBD
 [MIT license](https://opensource.org/licenses/MIT) others are allowed modify or reuse this project.
 
 ### Contact information: 
-Message me on LinkedIn @ https://www.linkedin.com/in/gbroughton/
+  <ul>
+    <li><a href="mailto:gbrough@gmail.com">Email Me</a></li>
+    <li><a href="tel:1-503-724-1002">Call me 503-724-1002</a></li>
+    <li><a href="https://www.linkedin.com/in/gbroughton/">Message Me</a></li>
+  </ul>
