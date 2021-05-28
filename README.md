@@ -16,7 +16,7 @@
 If you would like to contribute to this project, you're welcome to clone it. The tools used are git for cloning, commiting, and pushing changes. VSCode is the editor I used to make HTML and CSS changes. VSCode includes Live Server that lets you preview the page on your local computer.
     
 ### Link to Github Page: 
-TBD
+<a href="https://gbrough.github.io/portfolio/">GitHub Page</a>
     
 ### License 
 [MIT license](https://opensource.org/licenses/MIT) others are allowed modify or reuse this project.
