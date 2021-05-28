@@ -8,17 +8,15 @@
   width: 20%;
   float: left;
   padding: 10px;
-  background-color: grey;
   display: block;
   box-sizing: border-box;
+  color: white;
 }
-.column-left picture {
-  float: left;
+.picture {
   padding: 10px;
   background-color: grey;
   display: block;
-  width: 20%;
-  box-sizing: border-box;
+  width: 100%;
 }
 .column-right {
   width: 80%;
