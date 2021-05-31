@@ -13,7 +13,7 @@
     -   Github was also utilized to practices saving changes and providing the Readme instructions.
 
 ### Program Setup Instructions: 
-  -  Clone this repository to your desktop or folder you wish to edit the project. You can download using the link git@github.com:gbrough/portfolio.git
+  -  Clone this repository to your desktop or folder you wish to edit the project. You can download by clicking the green code button and chosing clone.
   -  Open your terminal. I use the built in terminal in VSCode. You can open the built in terminal with keyboard shortcut (ctrl + ~). Change directory to the top folder of the project you just downloaded(i.e. cd ~/Desktop).
   -  Make nessecary changes to index.html or styles.css in the css folder. 
   -  Test by opening index.html in your browser or add the live share extention with VSCode. You can add Live Share in the VSCode settings. Click on Live Share on the bottom right to launch once it's installed.
