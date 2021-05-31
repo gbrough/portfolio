@@ -3,9 +3,9 @@
 ### Authored by:  Garrett Broughton
 
 ### Project Description: 
-    -   A home page with information about me with sections show casing projects, background, hobbies, and about me.
-    -   HTML: "Build with HTML tags including p,h,ul,ol,li,em,strong,a,img,div, and span."
-    -   CSS: "Added CSS Styling for formatting including margin, border, padding, and floats"
+  -   A home page with information about me with sections show casing projects, background, hobbies, and about me.
+  -   HTML: "Build with HTML tags including p,h,ul,ol,li,em,strong,a,img,div, and span."
+  -   CSS: "Added CSS Styling for formatting including margin, border, padding, and floats"
 
 ### Technologies Used:
     -   HTML was used for creating the basic information in the header, body, and paragraphs.
@@ -13,7 +13,10 @@
     -   Github was also utilized to practices saving changes and providing the Readme instructions.
 
 ### Program Setup Instructions: 
-If you would like to contribute, you're welcome to clone and submit a pull request, or fork the project for your own use. The tools used are git for cloning, commiting, and pushing changes. VSCode is the editor I used to make HTML and CSS changes. VSCode includes Live Server that lets you preview the page on your local computer.
+  -  Clone this repository to your desktop or folder you wish to edit the project. You can download using the link git@github.com:gbrough/portfolio.git
+  -  Open your terminal. I use the built in terminal in VSCode. You can open the built in terminal with keyboard shortcut (ctrl + ~). Change directory to the top folder of the project you just downloaded(i.e. cd ~/Desktop).
+  -  Make nessecary changes to index.html or styles.css in the css folder. 
+  -  Test by opening index.html in your browser or add the live share extention with VSCode. You can add Live Share in the VSCode settings. Click on Live Share on the bottom right to launch once it's installed.
     
 ### Link to Github Page: 
 <a href="https://gbrough.github.io/portfolio/">GitHub Page</a>
