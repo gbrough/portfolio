@@ -13,11 +13,11 @@
   -   Github was also utilized to practices saving changes and providing the Readme instructions.
 
 ### Program Setup Instructions: 
-  -  Clone this repository to your desktop or folder you wish to edit the project. You can download by clicking the green code button and choosing clone. Alternatively,  can also issue a git clone command from your terminal, then paste the link "https://github.com/gbrough/portfolio.git"
-  -  Open your terminal. I use the built-in terminal in VSCode. You can open it with a keyboard shortcut (ctrl + ~). Change directory to the top folder of the project you just downloaded(i.e. cd ~/Desktop).
-  -  Launch your code editor to make necessary changes to index.html. You may also need to edit the styles.css in the CSS folder under the main directory. You can enter the command (code .) to launch it in VSCode.
-  -  Test by opening index.html in your browser or add the Live Share extention with VSCode. You can add Live Share in the VSCode settings. Click on Live Share on the bottom right to launch once it's installed.
-  - When your done making changes you can publish them to the repo by a series of Git commands.
+  -  Clone this repository to your desktop or folder you wish to edit the project. You can download by clicking the green code button and choosing clone. Alternatively,  can also issue a git clone command from a terminal, then paste the link "https://github.com/gbrough/portfolio.git"
+  -  You can open a built-in terminal in VSCode with a keyboard shortcut (ctrl + ~). Change directory to the top folder of the project you just downloaded(i.e. cd ~/Desktop).
+  -  Open index.html in your browser or add the Live Share extention with VSCode. You can add Live Share in the VSCode settings. Click on Live Share on the bottom right to launch once it's installed.
+  -  If you want to make changes, launch your code editor to make necessary changes to index.html. You may also need to edit the styles.css in the CSS folder under the main directory. You can enter the command (code .) to launch it in VSCode.
+  - If you want to publish your changes to the repo, you can upload with a series of Git commands.
     1. git init
     2. git remote "type-nickname" "https://github.com/gbrough/portfolio"
     2. git add .
