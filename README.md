@@ -34,7 +34,6 @@
 
 ### Contact information: 
   <ol>
-    <li>Call me 503-724-1002</li>
-    <li><a href="mailto:gbrough@gmail.com">Email Me</a></li>
+
     <li><a href="https://www.linkedin.com/in/gbroughton/">Add Me on LinkedIn</a></li>
   </ol>
